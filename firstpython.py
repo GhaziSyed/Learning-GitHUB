@@ -1,1 +1,2 @@
-Import numpy as np
+#display output
+print("new python file")
